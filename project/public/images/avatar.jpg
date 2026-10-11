@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#151515" />
+    <meta name="description" content="Modern Luxury Salon | Best Hair & Beauty Services in Shahdara, Delhi" />
+    <meta name="keywords" content="luxury salon Shahdara, hair salon East Delhi, 60 Feet Road, Ram Nagar, Shahdara Metro Station" />
+    <title>Modern Luxury Salon | Shahdara, East Delhi</title>
+  <script defer src="/static/js/bundle.js"></script></head>
+  <body>
+    <noscript>Please enable JavaScript to view Modern Luxury Salon.</noscript>
+    <div id="root"></div>
+  </body>
+</html>
